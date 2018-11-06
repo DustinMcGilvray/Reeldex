@@ -9,6 +9,9 @@ The Reeldex App is the central source of information on all your favorite movies
   <img src =assets/images/reeldex_screenshot.JPG/>
 </p>
 
+### Link to App
+* [Reeldex]()
+
 ### Crafted With
 ---
 * HTML5
@@ -21,7 +24,7 @@ The Reeldex App is the central source of information on all your favorite movies
 
 ### Hosting
 ---
-* [Github Pages](https://blnicholson.github.io/Group-Project-1/index.html)
+* [Github Pages](https://pages.github.com/)
 
 ### Authors
 ---
