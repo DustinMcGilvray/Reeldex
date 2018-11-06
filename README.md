@@ -10,7 +10,7 @@ The Reeldex App is the central source of information on all your favorite movies
 </p>
 
 ### Link to App
-* [Reeldex]()
+* [Reeldex](https://dustinmcgilvray.github.io/Reeldex/.)
 
 ### Crafted With
 ---
