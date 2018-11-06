@@ -1,21 +1,31 @@
-# Reeldex
-If you are a movie-enthusiast with a need for a one-stop-shop movie search engine then look no further. Whether you are looking for the latest box office releases or hard to find vintage classics, Reeldex and the Movie Vault will feed your cinematic hunger. Find the next flick with a simple click!
+<p align="center">
+  <img src =assets/images/reeldex_headline.JPG/>
+</p>
 
-## UX
+## Overview
+The Reeldex App is the central source of information on all your favorite movies. The landing page gives the user a visual reference of the top ten movies world wide, currently in theaters, through the poster carosel populated via (name)API. Top headlines in Entertainmaent news are also immedietly viewable through the jQuery Web Ticker at the bottom of the screen. After entering the app, users can utilize the search feature to obtain information on movies past and present via the OMDB API. The top three movies currently in theaters are also displayed with the title, plot, and link to AMC theaters to but show tickets. 
 
-The user experience begins with the landing page.  It features a carousel from Materialized. Are you interested in keeping up with the latest trends in entertainment news? Check out our Entertainment News Ticker for the latest news.
+<p align="center">
+  <img src =assets/images/reeldex_screenshot.JPG/>
+</p>
 
+### Crafted With
+---
+* HTML5
+* CSS3
+* [Materialize CSS](https://materializecss.com/)
+* JavaScript/jQuery
+* AJAX
+* [Visual Studio Code](https://code.visualstudio.com/)
+* GitBash
 
-### Technology 
+### Hosting
+---
+* [Github Pages](https://blnicholson.github.io/Group-Project-1/index.html)
 
-HTML5, CSS, Materialized, Javascript, jQuery and API's.
-
-
-### Challenges
-
-Movie Trailers
-
-API's
-
-Modal.destroy
-
+### Authors
+---
+Dustin McGilvray
+Brandy Nicholson
+Mikaela McIntosh
+Teresa Maher
